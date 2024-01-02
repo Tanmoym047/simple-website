@@ -5,6 +5,6 @@ div{
 }
 #image{
     height: 500px;
-    background-image: url('https://i.pinimg.com/originals/4c/70/ef/4c70ef06950b6a183874e98563793b0c.png');
+    background-image: url('..\\images\\battlefield-1.jpg');
     background-size: cover;
 }
